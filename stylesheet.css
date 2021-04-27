@@ -29,7 +29,7 @@
 }
 @keyframes highway {
   100%{
-    transform: translateX(-3400px);
+    transform: translateX(-4000px);
   }
 }
 
